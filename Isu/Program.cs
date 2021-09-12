@@ -1,10 +1,11 @@
-﻿namespace Isu
+﻿using System;
+
+namespace Isu
 {
     internal class Program
     {
         private static void Main()
         {
-		Console.WriteLine("Hello, World!");
         }
     }
 }
